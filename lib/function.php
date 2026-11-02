@@ -1024,7 +1024,7 @@ case "4": case "5": case "6":
 $data["sklp"]+=2; break;
 case "7": case "8": case "9":
 $data["sklp"]+=3; break;
-case "10";
+case "10":
 $data["sklp"]+=5; break;
 }
 }elseif($job["rank"]=="2"){
